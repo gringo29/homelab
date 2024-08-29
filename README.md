@@ -1,2 +1,2 @@
-# homelab
+# Homelab
 Homelab scripts
